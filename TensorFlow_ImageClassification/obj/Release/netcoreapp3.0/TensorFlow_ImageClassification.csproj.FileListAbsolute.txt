@@ -1,0 +1,194 @@
+C:\Users\思羽哥哥\Desktop\桌面文档\c# 机器学习【可用】\Study_ML.NET-master\Study_ML.NET-master\TensorFlow_ImageClassification\TensorFlow_ImageClassification\bin\Release\netcoreapp3.0\MLModel\readme.txt
+C:\Users\思羽哥哥\Desktop\桌面文档\c# 机器学习【可用】\Study_ML.NET-master\Study_ML.NET-master\TensorFlow_ImageClassification\TensorFlow_ImageClassification\bin\Release\netcoreapp3.0\TensorFlow_ImageClassification.exe
+C:\Users\思羽哥哥\Desktop\桌面文档\c# 机器学习【可用】\Study_ML.NET-master\Study_ML.NET-master\TensorFlow_ImageClassification\TensorFlow_ImageClassification\bin\Release\netcoreapp3.0\TensorFlow_ImageClassification.deps.json
+C:\Users\思羽哥哥\Desktop\桌面文档\c# 机器学习【可用】\Study_ML.NET-master\Study_ML.NET-master\TensorFlow_ImageClassification\TensorFlow_ImageClassification\bin\Release\netcoreapp3.0\TensorFlow_ImageClassification.runtimeconfig.json
+C:\Users\思羽哥哥\Desktop\桌面文档\c# 机器学习【可用】\Study_ML.NET-master\Study_ML.NET-master\TensorFlow_ImageClassification\TensorFlow_ImageClassification\bin\Release\netcoreapp3.0\TensorFlow_ImageClassification.runtimeconfig.dev.json
+C:\Users\思羽哥哥\Desktop\桌面文档\c# 机器学习【可用】\Study_ML.NET-master\Study_ML.NET-master\TensorFlow_ImageClassification\TensorFlow_ImageClassification\bin\Release\netcoreapp3.0\TensorFlow_ImageClassification.dll
+C:\Users\思羽哥哥\Desktop\桌面文档\c# 机器学习【可用】\Study_ML.NET-master\Study_ML.NET-master\TensorFlow_ImageClassification\TensorFlow_ImageClassification\bin\Release\netcoreapp3.0\TensorFlow_ImageClassification.pdb
+C:\Users\思羽哥哥\Desktop\桌面文档\c# 机器学习【可用】\Study_ML.NET-master\Study_ML.NET-master\TensorFlow_ImageClassification\TensorFlow_ImageClassification\bin\Release\netcoreapp3.0\Microsoft.ML.Core.dll
+C:\Users\思羽哥哥\Desktop\桌面文档\c# 机器学习【可用】\Study_ML.NET-master\Study_ML.NET-master\TensorFlow_ImageClassification\TensorFlow_ImageClassification\bin\Release\netcoreapp3.0\Microsoft.ML.Data.dll
+C:\Users\思羽哥哥\Desktop\桌面文档\c# 机器学习【可用】\Study_ML.NET-master\Study_ML.NET-master\TensorFlow_ImageClassification\TensorFlow_ImageClassification\bin\Release\netcoreapp3.0\Microsoft.ML.KMeansClustering.dll
+C:\Users\思羽哥哥\Desktop\桌面文档\c# 机器学习【可用】\Study_ML.NET-master\Study_ML.NET-master\TensorFlow_ImageClassification\TensorFlow_ImageClassification\bin\Release\netcoreapp3.0\Microsoft.ML.PCA.dll
+C:\Users\思羽哥哥\Desktop\桌面文档\c# 机器学习【可用】\Study_ML.NET-master\Study_ML.NET-master\TensorFlow_ImageClassification\TensorFlow_ImageClassification\bin\Release\netcoreapp3.0\Microsoft.ML.StandardTrainers.dll
+C:\Users\思羽哥哥\Desktop\桌面文档\c# 机器学习【可用】\Study_ML.NET-master\Study_ML.NET-master\TensorFlow_ImageClassification\TensorFlow_ImageClassification\bin\Release\netcoreapp3.0\Microsoft.ML.Transforms.dll
+C:\Users\思羽哥哥\Desktop\桌面文档\c# 机器学习【可用】\Study_ML.NET-master\Study_ML.NET-master\TensorFlow_ImageClassification\TensorFlow_ImageClassification\bin\Release\netcoreapp3.0\Microsoft.ML.CpuMath.dll
+C:\Users\思羽哥哥\Desktop\桌面文档\c# 机器学习【可用】\Study_ML.NET-master\Study_ML.NET-master\TensorFlow_ImageClassification\TensorFlow_ImageClassification\bin\Release\netcoreapp3.0\Microsoft.ML.DataView.dll
+C:\Users\思羽哥哥\Desktop\桌面文档\c# 机器学习【可用】\Study_ML.NET-master\Study_ML.NET-master\TensorFlow_ImageClassification\TensorFlow_ImageClassification\bin\Release\netcoreapp3.0\Microsoft.ML.ImageAnalytics.dll
+C:\Users\思羽哥哥\Desktop\桌面文档\c# 机器学习【可用】\Study_ML.NET-master\Study_ML.NET-master\TensorFlow_ImageClassification\TensorFlow_ImageClassification\bin\Release\netcoreapp3.0\Microsoft.ML.TensorFlow.dll
+C:\Users\思羽哥哥\Desktop\桌面文档\c# 机器学习【可用】\Study_ML.NET-master\Study_ML.NET-master\TensorFlow_ImageClassification\TensorFlow_ImageClassification\bin\Release\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\思羽哥哥\Desktop\桌面文档\c# 机器学习【可用】\Study_ML.NET-master\Study_ML.NET-master\TensorFlow_ImageClassification\TensorFlow_ImageClassification\bin\Release\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\思羽哥哥\Desktop\桌面文档\c# 机器学习【可用】\Study_ML.NET-master\Study_ML.NET-master\TensorFlow_ImageClassification\TensorFlow_ImageClassification\bin\Release\netcoreapp3.0\System.CodeDom.dll
+C:\Users\思羽哥哥\Desktop\桌面文档\c# 机器学习【可用】\Study_ML.NET-master\Study_ML.NET-master\TensorFlow_ImageClassification\TensorFlow_ImageClassification\bin\Release\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\思羽哥哥\Desktop\桌面文档\c# 机器学习【可用】\Study_ML.NET-master\Study_ML.NET-master\TensorFlow_ImageClassification\TensorFlow_ImageClassification\bin\Release\netcoreapp3.0\runtimes\linux-x64\native\libFactorizationMachineNative.so
+C:\Users\思羽哥哥\Desktop\桌面文档\c# 机器学习【可用】\Study_ML.NET-master\Study_ML.NET-master\TensorFlow_ImageClassification\TensorFlow_ImageClassification\bin\Release\netcoreapp3.0\runtimes\linux-x64\native\libLdaNative.so
+C:\Users\思羽哥哥\Desktop\桌面文档\c# 机器学习【可用】\Study_ML.NET-master\Study_ML.NET-master\TensorFlow_ImageClassification\TensorFlow_ImageClassification\bin\Release\netcoreapp3.0\runtimes\osx-x64\native\libFactorizationMachineNative.dylib
+C:\Users\思羽哥哥\Desktop\桌面文档\c# 机器学习【可用】\Study_ML.NET-master\Study_ML.NET-master\TensorFlow_ImageClassification\TensorFlow_ImageClassification\bin\Release\netcoreapp3.0\runtimes\osx-x64\native\libLdaNative.dylib
+C:\Users\思羽哥哥\Desktop\桌面文档\c# 机器学习【可用】\Study_ML.NET-master\Study_ML.NET-master\TensorFlow_ImageClassification\TensorFlow_ImageClassification\bin\Release\netcoreapp3.0\runtimes\win-x64\native\FactorizationMachineNative.dll
+C:\Users\思羽哥哥\Desktop\桌面文档\c# 机器学习【可用】\Study_ML.NET-master\Study_ML.NET-master\TensorFlow_ImageClassification\TensorFlow_ImageClassification\bin\Release\netcoreapp3.0\runtimes\win-x64\native\LdaNative.dll
+C:\Users\思羽哥哥\Desktop\桌面文档\c# 机器学习【可用】\Study_ML.NET-master\Study_ML.NET-master\TensorFlow_ImageClassification\TensorFlow_ImageClassification\bin\Release\netcoreapp3.0\runtimes\win-x86\native\FactorizationMachineNative.dll
+C:\Users\思羽哥哥\Desktop\桌面文档\c# 机器学习【可用】\Study_ML.NET-master\Study_ML.NET-master\TensorFlow_ImageClassification\TensorFlow_ImageClassification\bin\Release\netcoreapp3.0\runtimes\win-x86\native\LdaNative.dll
+C:\Users\思羽哥哥\Desktop\桌面文档\c# 机器学习【可用】\Study_ML.NET-master\Study_ML.NET-master\TensorFlow_ImageClassification\TensorFlow_ImageClassification\bin\Release\netcoreapp3.0\runtimes\linux-x64\native\libCpuMathNative.so
+C:\Users\思羽哥哥\Desktop\桌面文档\c# 机器学习【可用】\Study_ML.NET-master\Study_ML.NET-master\TensorFlow_ImageClassification\TensorFlow_ImageClassification\bin\Release\netcoreapp3.0\runtimes\osx-x64\native\libCpuMathNative.dylib
+C:\Users\思羽哥哥\Desktop\桌面文档\c# 机器学习【可用】\Study_ML.NET-master\Study_ML.NET-master\TensorFlow_ImageClassification\TensorFlow_ImageClassification\bin\Release\netcoreapp3.0\runtimes\win-x64\native\CpuMathNative.dll
+C:\Users\思羽哥哥\Desktop\桌面文档\c# 机器学习【可用】\Study_ML.NET-master\Study_ML.NET-master\TensorFlow_ImageClassification\TensorFlow_ImageClassification\bin\Release\netcoreapp3.0\runtimes\win-x86\native\CpuMathNative.dll
+C:\Users\思羽哥哥\Desktop\桌面文档\c# 机器学习【可用】\Study_ML.NET-master\Study_ML.NET-master\TensorFlow_ImageClassification\TensorFlow_ImageClassification\bin\Release\netcoreapp3.0\runtimes\linux-x64\native\libtensorflow.so
+C:\Users\思羽哥哥\Desktop\桌面文档\c# 机器学习【可用】\Study_ML.NET-master\Study_ML.NET-master\TensorFlow_ImageClassification\TensorFlow_ImageClassification\bin\Release\netcoreapp3.0\runtimes\linux-x64\native\libtensorflow_framework.so
+C:\Users\思羽哥哥\Desktop\桌面文档\c# 机器学习【可用】\Study_ML.NET-master\Study_ML.NET-master\TensorFlow_ImageClassification\TensorFlow_ImageClassification\bin\Release\netcoreapp3.0\runtimes\osx-x64\native\libtensorflow.dylib
+C:\Users\思羽哥哥\Desktop\桌面文档\c# 机器学习【可用】\Study_ML.NET-master\Study_ML.NET-master\TensorFlow_ImageClassification\TensorFlow_ImageClassification\bin\Release\netcoreapp3.0\runtimes\osx-x64\native\libtensorflow_framework.dylib
+C:\Users\思羽哥哥\Desktop\桌面文档\c# 机器学习【可用】\Study_ML.NET-master\Study_ML.NET-master\TensorFlow_ImageClassification\TensorFlow_ImageClassification\bin\Release\netcoreapp3.0\runtimes\win-x64\native\tensorflow.dll
+C:\Users\思羽哥哥\Desktop\桌面文档\c# 机器学习【可用】\Study_ML.NET-master\Study_ML.NET-master\TensorFlow_ImageClassification\TensorFlow_ImageClassification\bin\Release\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\思羽哥哥\Desktop\桌面文档\c# 机器学习【可用】\Study_ML.NET-master\Study_ML.NET-master\TensorFlow_ImageClassification\TensorFlow_ImageClassification\bin\Release\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Drawing.Common.dll
+C:\Users\思羽哥哥\Desktop\桌面文档\c# 机器学习【可用】\Study_ML.NET-master\Study_ML.NET-master\TensorFlow_ImageClassification\TensorFlow_ImageClassification\bin\Release\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Drawing.Common.dll
+C:\Users\思羽哥哥\Desktop\桌面文档\c# 机器学习【可用】\Study_ML.NET-master\Study_ML.NET-master\TensorFlow_ImageClassification\TensorFlow_ImageClassification\obj\Release\netcoreapp3.0\TensorFlow_ImageClassification.csprojAssemblyReference.cache
+C:\Users\思羽哥哥\Desktop\桌面文档\c# 机器学习【可用】\Study_ML.NET-master\Study_ML.NET-master\TensorFlow_ImageClassification\TensorFlow_ImageClassification\obj\Release\netcoreapp3.0\TensorFlow_ImageClassification.AssemblyInfoInputs.cache
+C:\Users\思羽哥哥\Desktop\桌面文档\c# 机器学习【可用】\Study_ML.NET-master\Study_ML.NET-master\TensorFlow_ImageClassification\TensorFlow_ImageClassification\obj\Release\netcoreapp3.0\TensorFlow_ImageClassification.AssemblyInfo.cs
+C:\Users\思羽哥哥\Desktop\桌面文档\c# 机器学习【可用】\Study_ML.NET-master\Study_ML.NET-master\TensorFlow_ImageClassification\TensorFlow_ImageClassification\obj\Release\netcoreapp3.0\TensorFlow_ImageClassification.csproj.CopyComplete
+C:\Users\思羽哥哥\Desktop\桌面文档\c# 机器学习【可用】\Study_ML.NET-master\Study_ML.NET-master\TensorFlow_ImageClassification\TensorFlow_ImageClassification\obj\Release\netcoreapp3.0\TensorFlow_ImageClassification.dll
+C:\Users\思羽哥哥\Desktop\桌面文档\c# 机器学习【可用】\Study_ML.NET-master\Study_ML.NET-master\TensorFlow_ImageClassification\TensorFlow_ImageClassification\obj\Release\netcoreapp3.0\TensorFlow_ImageClassification.pdb
+D:\verysync drive\源码下载\c# 机器学习【可用】\TensorFlow_ImageClassification\TensorFlow_ImageClassification\bin\Release\netcoreapp3.0\MLModel\readme.txt
+D:\verysync drive\源码下载\c# 机器学习【可用】\TensorFlow_ImageClassification\TensorFlow_ImageClassification\bin\Release\netcoreapp3.0\TensorFlow_ImageClassification.exe
+D:\verysync drive\源码下载\c# 机器学习【可用】\TensorFlow_ImageClassification\TensorFlow_ImageClassification\bin\Release\netcoreapp3.0\TensorFlow_ImageClassification.deps.json
+D:\verysync drive\源码下载\c# 机器学习【可用】\TensorFlow_ImageClassification\TensorFlow_ImageClassification\bin\Release\netcoreapp3.0\TensorFlow_ImageClassification.runtimeconfig.json
+D:\verysync drive\源码下载\c# 机器学习【可用】\TensorFlow_ImageClassification\TensorFlow_ImageClassification\bin\Release\netcoreapp3.0\TensorFlow_ImageClassification.runtimeconfig.dev.json
+D:\verysync drive\源码下载\c# 机器学习【可用】\TensorFlow_ImageClassification\TensorFlow_ImageClassification\bin\Release\netcoreapp3.0\TensorFlow_ImageClassification.dll
+D:\verysync drive\源码下载\c# 机器学习【可用】\TensorFlow_ImageClassification\TensorFlow_ImageClassification\bin\Release\netcoreapp3.0\TensorFlow_ImageClassification.pdb
+D:\verysync drive\源码下载\c# 机器学习【可用】\TensorFlow_ImageClassification\TensorFlow_ImageClassification\bin\Release\netcoreapp3.0\Microsoft.ML.Core.dll
+D:\verysync drive\源码下载\c# 机器学习【可用】\TensorFlow_ImageClassification\TensorFlow_ImageClassification\bin\Release\netcoreapp3.0\Microsoft.ML.Data.dll
+D:\verysync drive\源码下载\c# 机器学习【可用】\TensorFlow_ImageClassification\TensorFlow_ImageClassification\bin\Release\netcoreapp3.0\Microsoft.ML.KMeansClustering.dll
+D:\verysync drive\源码下载\c# 机器学习【可用】\TensorFlow_ImageClassification\TensorFlow_ImageClassification\bin\Release\netcoreapp3.0\Microsoft.ML.PCA.dll
+D:\verysync drive\源码下载\c# 机器学习【可用】\TensorFlow_ImageClassification\TensorFlow_ImageClassification\bin\Release\netcoreapp3.0\Microsoft.ML.StandardTrainers.dll
+D:\verysync drive\源码下载\c# 机器学习【可用】\TensorFlow_ImageClassification\TensorFlow_ImageClassification\bin\Release\netcoreapp3.0\Microsoft.ML.Transforms.dll
+D:\verysync drive\源码下载\c# 机器学习【可用】\TensorFlow_ImageClassification\TensorFlow_ImageClassification\bin\Release\netcoreapp3.0\Microsoft.ML.CpuMath.dll
+D:\verysync drive\源码下载\c# 机器学习【可用】\TensorFlow_ImageClassification\TensorFlow_ImageClassification\bin\Release\netcoreapp3.0\Microsoft.ML.DataView.dll
+D:\verysync drive\源码下载\c# 机器学习【可用】\TensorFlow_ImageClassification\TensorFlow_ImageClassification\bin\Release\netcoreapp3.0\Microsoft.ML.ImageAnalytics.dll
+D:\verysync drive\源码下载\c# 机器学习【可用】\TensorFlow_ImageClassification\TensorFlow_ImageClassification\bin\Release\netcoreapp3.0\Microsoft.ML.TensorFlow.dll
+D:\verysync drive\源码下载\c# 机器学习【可用】\TensorFlow_ImageClassification\TensorFlow_ImageClassification\bin\Release\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\verysync drive\源码下载\c# 机器学习【可用】\TensorFlow_ImageClassification\TensorFlow_ImageClassification\bin\Release\netcoreapp3.0\Newtonsoft.Json.dll
+D:\verysync drive\源码下载\c# 机器学习【可用】\TensorFlow_ImageClassification\TensorFlow_ImageClassification\bin\Release\netcoreapp3.0\System.CodeDom.dll
+D:\verysync drive\源码下载\c# 机器学习【可用】\TensorFlow_ImageClassification\TensorFlow_ImageClassification\bin\Release\netcoreapp3.0\System.Drawing.Common.dll
+D:\verysync drive\源码下载\c# 机器学习【可用】\TensorFlow_ImageClassification\TensorFlow_ImageClassification\bin\Release\netcoreapp3.0\runtimes\linux-x64\native\libFactorizationMachineNative.so
+D:\verysync drive\源码下载\c# 机器学习【可用】\TensorFlow_ImageClassification\TensorFlow_ImageClassification\bin\Release\netcoreapp3.0\runtimes\linux-x64\native\libLdaNative.so
+D:\verysync drive\源码下载\c# 机器学习【可用】\TensorFlow_ImageClassification\TensorFlow_ImageClassification\bin\Release\netcoreapp3.0\runtimes\osx-x64\native\libFactorizationMachineNative.dylib
+D:\verysync drive\源码下载\c# 机器学习【可用】\TensorFlow_ImageClassification\TensorFlow_ImageClassification\bin\Release\netcoreapp3.0\runtimes\osx-x64\native\libLdaNative.dylib
+D:\verysync drive\源码下载\c# 机器学习【可用】\TensorFlow_ImageClassification\TensorFlow_ImageClassification\bin\Release\netcoreapp3.0\runtimes\win-x64\native\FactorizationMachineNative.dll
+D:\verysync drive\源码下载\c# 机器学习【可用】\TensorFlow_ImageClassification\TensorFlow_ImageClassification\bin\Release\netcoreapp3.0\runtimes\win-x64\native\LdaNative.dll
+D:\verysync drive\源码下载\c# 机器学习【可用】\TensorFlow_ImageClassification\TensorFlow_ImageClassification\bin\Release\netcoreapp3.0\runtimes\win-x86\native\FactorizationMachineNative.dll
+D:\verysync drive\源码下载\c# 机器学习【可用】\TensorFlow_ImageClassification\TensorFlow_ImageClassification\bin\Release\netcoreapp3.0\runtimes\win-x86\native\LdaNative.dll
+D:\verysync drive\源码下载\c# 机器学习【可用】\TensorFlow_ImageClassification\TensorFlow_ImageClassification\bin\Release\netcoreapp3.0\runtimes\linux-x64\native\libCpuMathNative.so
+D:\verysync drive\源码下载\c# 机器学习【可用】\TensorFlow_ImageClassification\TensorFlow_ImageClassification\bin\Release\netcoreapp3.0\runtimes\osx-x64\native\libCpuMathNative.dylib
+D:\verysync drive\源码下载\c# 机器学习【可用】\TensorFlow_ImageClassification\TensorFlow_ImageClassification\bin\Release\netcoreapp3.0\runtimes\win-x64\native\CpuMathNative.dll
+D:\verysync drive\源码下载\c# 机器学习【可用】\TensorFlow_ImageClassification\TensorFlow_ImageClassification\bin\Release\netcoreapp3.0\runtimes\win-x86\native\CpuMathNative.dll
+D:\verysync drive\源码下载\c# 机器学习【可用】\TensorFlow_ImageClassification\TensorFlow_ImageClassification\bin\Release\netcoreapp3.0\runtimes\linux-x64\native\libtensorflow.so
+D:\verysync drive\源码下载\c# 机器学习【可用】\TensorFlow_ImageClassification\TensorFlow_ImageClassification\bin\Release\netcoreapp3.0\runtimes\linux-x64\native\libtensorflow_framework.so
+D:\verysync drive\源码下载\c# 机器学习【可用】\TensorFlow_ImageClassification\TensorFlow_ImageClassification\bin\Release\netcoreapp3.0\runtimes\osx-x64\native\libtensorflow.dylib
+D:\verysync drive\源码下载\c# 机器学习【可用】\TensorFlow_ImageClassification\TensorFlow_ImageClassification\bin\Release\netcoreapp3.0\runtimes\osx-x64\native\libtensorflow_framework.dylib
+D:\verysync drive\源码下载\c# 机器学习【可用】\TensorFlow_ImageClassification\TensorFlow_ImageClassification\bin\Release\netcoreapp3.0\runtimes\win-x64\native\tensorflow.dll
+D:\verysync drive\源码下载\c# 机器学习【可用】\TensorFlow_ImageClassification\TensorFlow_ImageClassification\bin\Release\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\Microsoft.Win32.SystemEvents.dll
+D:\verysync drive\源码下载\c# 机器学习【可用】\TensorFlow_ImageClassification\TensorFlow_ImageClassification\bin\Release\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Drawing.Common.dll
+D:\verysync drive\源码下载\c# 机器学习【可用】\TensorFlow_ImageClassification\TensorFlow_ImageClassification\bin\Release\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Drawing.Common.dll
+D:\verysync drive\源码下载\c# 机器学习【可用】\TensorFlow_ImageClassification\TensorFlow_ImageClassification\obj\Release\netcoreapp3.0\TensorFlow_ImageClassification.csprojAssemblyReference.cache
+D:\verysync drive\源码下载\c# 机器学习【可用】\TensorFlow_ImageClassification\TensorFlow_ImageClassification\obj\Release\netcoreapp3.0\TensorFlow_ImageClassification.AssemblyInfoInputs.cache
+D:\verysync drive\源码下载\c# 机器学习【可用】\TensorFlow_ImageClassification\TensorFlow_ImageClassification\obj\Release\netcoreapp3.0\TensorFlow_ImageClassification.AssemblyInfo.cs
+D:\verysync drive\源码下载\c# 机器学习【可用】\TensorFlow_ImageClassification\TensorFlow_ImageClassification\obj\Release\netcoreapp3.0\TensorFlow_ImageClassification.csproj.CoreCompileInputs.cache
+D:\verysync drive\源码下载\c# 机器学习【可用】\TensorFlow_ImageClassification\TensorFlow_ImageClassification\obj\Release\netcoreapp3.0\TensorFlow_ImageClassification.csproj.CopyComplete
+D:\verysync drive\源码下载\c# 机器学习【可用】\TensorFlow_ImageClassification\TensorFlow_ImageClassification\obj\Release\netcoreapp3.0\TensorFlow_ImageClassification.dll
+D:\verysync drive\源码下载\c# 机器学习【可用】\TensorFlow_ImageClassification\TensorFlow_ImageClassification\obj\Release\netcoreapp3.0\TensorFlow_ImageClassification.pdb
+D:\verysync drive\源码下载\c# 机器学习【可用】\TensorFlow_ImageClassification\TensorFlow_ImageClassification\obj\Release\netcoreapp3.0\TensorFlow_ImageClassification.genruntimeconfig.cache
+D:\MyWorkTable_sama\源码下载\c# 机器学习【可用】\TensorFlow_ImageClassification\TensorFlow_ImageClassification\bin\Release\netcoreapp3.0\MLModel\readme.txt
+D:\MyWorkTable_sama\源码下载\c# 机器学习【可用】\TensorFlow_ImageClassification\TensorFlow_ImageClassification\bin\Release\netcoreapp3.0\TensorFlow_ImageClassification.exe
+D:\MyWorkTable_sama\源码下载\c# 机器学习【可用】\TensorFlow_ImageClassification\TensorFlow_ImageClassification\bin\Release\netcoreapp3.0\TensorFlow_ImageClassification.deps.json
+D:\MyWorkTable_sama\源码下载\c# 机器学习【可用】\TensorFlow_ImageClassification\TensorFlow_ImageClassification\bin\Release\netcoreapp3.0\TensorFlow_ImageClassification.runtimeconfig.json
+D:\MyWorkTable_sama\源码下载\c# 机器学习【可用】\TensorFlow_ImageClassification\TensorFlow_ImageClassification\bin\Release\netcoreapp3.0\TensorFlow_ImageClassification.runtimeconfig.dev.json
+D:\MyWorkTable_sama\源码下载\c# 机器学习【可用】\TensorFlow_ImageClassification\TensorFlow_ImageClassification\bin\Release\netcoreapp3.0\TensorFlow_ImageClassification.dll
+D:\MyWorkTable_sama\源码下载\c# 机器学习【可用】\TensorFlow_ImageClassification\TensorFlow_ImageClassification\bin\Release\netcoreapp3.0\TensorFlow_ImageClassification.pdb
+D:\MyWorkTable_sama\源码下载\c# 机器学习【可用】\TensorFlow_ImageClassification\TensorFlow_ImageClassification\bin\Release\netcoreapp3.0\Microsoft.ML.Core.dll
+D:\MyWorkTable_sama\源码下载\c# 机器学习【可用】\TensorFlow_ImageClassification\TensorFlow_ImageClassification\bin\Release\netcoreapp3.0\Microsoft.ML.Data.dll
+D:\MyWorkTable_sama\源码下载\c# 机器学习【可用】\TensorFlow_ImageClassification\TensorFlow_ImageClassification\bin\Release\netcoreapp3.0\Microsoft.ML.KMeansClustering.dll
+D:\MyWorkTable_sama\源码下载\c# 机器学习【可用】\TensorFlow_ImageClassification\TensorFlow_ImageClassification\bin\Release\netcoreapp3.0\Microsoft.ML.PCA.dll
+D:\MyWorkTable_sama\源码下载\c# 机器学习【可用】\TensorFlow_ImageClassification\TensorFlow_ImageClassification\bin\Release\netcoreapp3.0\Microsoft.ML.StandardTrainers.dll
+D:\MyWorkTable_sama\源码下载\c# 机器学习【可用】\TensorFlow_ImageClassification\TensorFlow_ImageClassification\bin\Release\netcoreapp3.0\Microsoft.ML.Transforms.dll
+D:\MyWorkTable_sama\源码下载\c# 机器学习【可用】\TensorFlow_ImageClassification\TensorFlow_ImageClassification\bin\Release\netcoreapp3.0\Microsoft.ML.CpuMath.dll
+D:\MyWorkTable_sama\源码下载\c# 机器学习【可用】\TensorFlow_ImageClassification\TensorFlow_ImageClassification\bin\Release\netcoreapp3.0\Microsoft.ML.DataView.dll
+D:\MyWorkTable_sama\源码下载\c# 机器学习【可用】\TensorFlow_ImageClassification\TensorFlow_ImageClassification\bin\Release\netcoreapp3.0\Microsoft.ML.ImageAnalytics.dll
+D:\MyWorkTable_sama\源码下载\c# 机器学习【可用】\TensorFlow_ImageClassification\TensorFlow_ImageClassification\bin\Release\netcoreapp3.0\Microsoft.ML.TensorFlow.dll
+D:\MyWorkTable_sama\源码下载\c# 机器学习【可用】\TensorFlow_ImageClassification\TensorFlow_ImageClassification\bin\Release\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\MyWorkTable_sama\源码下载\c# 机器学习【可用】\TensorFlow_ImageClassification\TensorFlow_ImageClassification\bin\Release\netcoreapp3.0\Newtonsoft.Json.dll
+D:\MyWorkTable_sama\源码下载\c# 机器学习【可用】\TensorFlow_ImageClassification\TensorFlow_ImageClassification\bin\Release\netcoreapp3.0\System.CodeDom.dll
+D:\MyWorkTable_sama\源码下载\c# 机器学习【可用】\TensorFlow_ImageClassification\TensorFlow_ImageClassification\bin\Release\netcoreapp3.0\System.Drawing.Common.dll
+D:\MyWorkTable_sama\源码下载\c# 机器学习【可用】\TensorFlow_ImageClassification\TensorFlow_ImageClassification\bin\Release\netcoreapp3.0\runtimes\linux-x64\native\libFactorizationMachineNative.so
+D:\MyWorkTable_sama\源码下载\c# 机器学习【可用】\TensorFlow_ImageClassification\TensorFlow_ImageClassification\bin\Release\netcoreapp3.0\runtimes\linux-x64\native\libLdaNative.so
+D:\MyWorkTable_sama\源码下载\c# 机器学习【可用】\TensorFlow_ImageClassification\TensorFlow_ImageClassification\bin\Release\netcoreapp3.0\runtimes\osx-x64\native\libFactorizationMachineNative.dylib
+D:\MyWorkTable_sama\源码下载\c# 机器学习【可用】\TensorFlow_ImageClassification\TensorFlow_ImageClassification\bin\Release\netcoreapp3.0\runtimes\osx-x64\native\libLdaNative.dylib
+D:\MyWorkTable_sama\源码下载\c# 机器学习【可用】\TensorFlow_ImageClassification\TensorFlow_ImageClassification\bin\Release\netcoreapp3.0\runtimes\win-x64\native\FactorizationMachineNative.dll
+D:\MyWorkTable_sama\源码下载\c# 机器学习【可用】\TensorFlow_ImageClassification\TensorFlow_ImageClassification\bin\Release\netcoreapp3.0\runtimes\win-x64\native\LdaNative.dll
+D:\MyWorkTable_sama\源码下载\c# 机器学习【可用】\TensorFlow_ImageClassification\TensorFlow_ImageClassification\bin\Release\netcoreapp3.0\runtimes\win-x86\native\FactorizationMachineNative.dll
+D:\MyWorkTable_sama\源码下载\c# 机器学习【可用】\TensorFlow_ImageClassification\TensorFlow_ImageClassification\bin\Release\netcoreapp3.0\runtimes\win-x86\native\LdaNative.dll
+D:\MyWorkTable_sama\源码下载\c# 机器学习【可用】\TensorFlow_ImageClassification\TensorFlow_ImageClassification\bin\Release\netcoreapp3.0\runtimes\linux-x64\native\libCpuMathNative.so
+D:\MyWorkTable_sama\源码下载\c# 机器学习【可用】\TensorFlow_ImageClassification\TensorFlow_ImageClassification\bin\Release\netcoreapp3.0\runtimes\osx-x64\native\libCpuMathNative.dylib
+D:\MyWorkTable_sama\源码下载\c# 机器学习【可用】\TensorFlow_ImageClassification\TensorFlow_ImageClassification\bin\Release\netcoreapp3.0\runtimes\win-x64\native\CpuMathNative.dll
+D:\MyWorkTable_sama\源码下载\c# 机器学习【可用】\TensorFlow_ImageClassification\TensorFlow_ImageClassification\bin\Release\netcoreapp3.0\runtimes\win-x86\native\CpuMathNative.dll
+D:\MyWorkTable_sama\源码下载\c# 机器学习【可用】\TensorFlow_ImageClassification\TensorFlow_ImageClassification\bin\Release\netcoreapp3.0\runtimes\linux-x64\native\libtensorflow.so
+D:\MyWorkTable_sama\源码下载\c# 机器学习【可用】\TensorFlow_ImageClassification\TensorFlow_ImageClassification\bin\Release\netcoreapp3.0\runtimes\linux-x64\native\libtensorflow_framework.so
+D:\MyWorkTable_sama\源码下载\c# 机器学习【可用】\TensorFlow_ImageClassification\TensorFlow_ImageClassification\bin\Release\netcoreapp3.0\runtimes\osx-x64\native\libtensorflow.dylib
+D:\MyWorkTable_sama\源码下载\c# 机器学习【可用】\TensorFlow_ImageClassification\TensorFlow_ImageClassification\bin\Release\netcoreapp3.0\runtimes\osx-x64\native\libtensorflow_framework.dylib
+D:\MyWorkTable_sama\源码下载\c# 机器学习【可用】\TensorFlow_ImageClassification\TensorFlow_ImageClassification\bin\Release\netcoreapp3.0\runtimes\win-x64\native\tensorflow.dll
+D:\MyWorkTable_sama\源码下载\c# 机器学习【可用】\TensorFlow_ImageClassification\TensorFlow_ImageClassification\bin\Release\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\Microsoft.Win32.SystemEvents.dll
+D:\MyWorkTable_sama\源码下载\c# 机器学习【可用】\TensorFlow_ImageClassification\TensorFlow_ImageClassification\bin\Release\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Drawing.Common.dll
+D:\MyWorkTable_sama\源码下载\c# 机器学习【可用】\TensorFlow_ImageClassification\TensorFlow_ImageClassification\bin\Release\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Drawing.Common.dll
+D:\MyWorkTable_sama\源码下载\c# 机器学习【可用】\TensorFlow_ImageClassification\TensorFlow_ImageClassification\obj\Release\netcoreapp3.0\TensorFlow_ImageClassification.csprojAssemblyReference.cache
+D:\MyWorkTable_sama\源码下载\c# 机器学习【可用】\TensorFlow_ImageClassification\TensorFlow_ImageClassification\obj\Release\netcoreapp3.0\TensorFlow_ImageClassification.AssemblyInfoInputs.cache
+D:\MyWorkTable_sama\源码下载\c# 机器学习【可用】\TensorFlow_ImageClassification\TensorFlow_ImageClassification\obj\Release\netcoreapp3.0\TensorFlow_ImageClassification.AssemblyInfo.cs
+D:\MyWorkTable_sama\源码下载\c# 机器学习【可用】\TensorFlow_ImageClassification\TensorFlow_ImageClassification\obj\Release\netcoreapp3.0\TensorFlow_ImageClassification.csproj.CoreCompileInputs.cache
+D:\MyWorkTable_sama\源码下载\c# 机器学习【可用】\TensorFlow_ImageClassification\TensorFlow_ImageClassification\obj\Release\netcoreapp3.0\TensorFlow_ImageClassification.csproj.CopyComplete
+D:\MyWorkTable_sama\源码下载\c# 机器学习【可用】\TensorFlow_ImageClassification\TensorFlow_ImageClassification\obj\Release\netcoreapp3.0\TensorFlow_ImageClassification.dll
+D:\MyWorkTable_sama\源码下载\c# 机器学习【可用】\TensorFlow_ImageClassification\TensorFlow_ImageClassification\obj\Release\netcoreapp3.0\TensorFlow_ImageClassification.pdb
+D:\MyWorkTable_sama\源码下载\c# 机器学习【可用】\TensorFlow_ImageClassification\TensorFlow_ImageClassification\obj\Release\netcoreapp3.0\TensorFlow_ImageClassification.genruntimeconfig.cache
+D:\MyWork Desktop\源码下载\c# 机器学习【可用】\TensorFlow_ImageClassification\TensorFlow_ImageClassification\bin\Release\netcoreapp3.0\MLModel\readme.txt
+D:\MyWork Desktop\源码下载\c# 机器学习【可用】\TensorFlow_ImageClassification\TensorFlow_ImageClassification\bin\Release\netcoreapp3.0\TensorFlow_ImageClassification.exe
+D:\MyWork Desktop\源码下载\c# 机器学习【可用】\TensorFlow_ImageClassification\TensorFlow_ImageClassification\bin\Release\netcoreapp3.0\TensorFlow_ImageClassification.deps.json
+D:\MyWork Desktop\源码下载\c# 机器学习【可用】\TensorFlow_ImageClassification\TensorFlow_ImageClassification\bin\Release\netcoreapp3.0\TensorFlow_ImageClassification.runtimeconfig.json
+D:\MyWork Desktop\源码下载\c# 机器学习【可用】\TensorFlow_ImageClassification\TensorFlow_ImageClassification\bin\Release\netcoreapp3.0\TensorFlow_ImageClassification.runtimeconfig.dev.json
+D:\MyWork Desktop\源码下载\c# 机器学习【可用】\TensorFlow_ImageClassification\TensorFlow_ImageClassification\bin\Release\netcoreapp3.0\TensorFlow_ImageClassification.dll
+D:\MyWork Desktop\源码下载\c# 机器学习【可用】\TensorFlow_ImageClassification\TensorFlow_ImageClassification\bin\Release\netcoreapp3.0\TensorFlow_ImageClassification.pdb
+D:\MyWork Desktop\源码下载\c# 机器学习【可用】\TensorFlow_ImageClassification\TensorFlow_ImageClassification\bin\Release\netcoreapp3.0\Microsoft.ML.Core.dll
+D:\MyWork Desktop\源码下载\c# 机器学习【可用】\TensorFlow_ImageClassification\TensorFlow_ImageClassification\bin\Release\netcoreapp3.0\Microsoft.ML.Data.dll
+D:\MyWork Desktop\源码下载\c# 机器学习【可用】\TensorFlow_ImageClassification\TensorFlow_ImageClassification\bin\Release\netcoreapp3.0\Microsoft.ML.KMeansClustering.dll
+D:\MyWork Desktop\源码下载\c# 机器学习【可用】\TensorFlow_ImageClassification\TensorFlow_ImageClassification\bin\Release\netcoreapp3.0\Microsoft.ML.PCA.dll
+D:\MyWork Desktop\源码下载\c# 机器学习【可用】\TensorFlow_ImageClassification\TensorFlow_ImageClassification\bin\Release\netcoreapp3.0\Microsoft.ML.StandardTrainers.dll
+D:\MyWork Desktop\源码下载\c# 机器学习【可用】\TensorFlow_ImageClassification\TensorFlow_ImageClassification\bin\Release\netcoreapp3.0\Microsoft.ML.Transforms.dll
+D:\MyWork Desktop\源码下载\c# 机器学习【可用】\TensorFlow_ImageClassification\TensorFlow_ImageClassification\bin\Release\netcoreapp3.0\Microsoft.ML.CpuMath.dll
+D:\MyWork Desktop\源码下载\c# 机器学习【可用】\TensorFlow_ImageClassification\TensorFlow_ImageClassification\bin\Release\netcoreapp3.0\Microsoft.ML.DataView.dll
+D:\MyWork Desktop\源码下载\c# 机器学习【可用】\TensorFlow_ImageClassification\TensorFlow_ImageClassification\bin\Release\netcoreapp3.0\Microsoft.ML.ImageAnalytics.dll
+D:\MyWork Desktop\源码下载\c# 机器学习【可用】\TensorFlow_ImageClassification\TensorFlow_ImageClassification\bin\Release\netcoreapp3.0\Microsoft.ML.TensorFlow.dll
+D:\MyWork Desktop\源码下载\c# 机器学习【可用】\TensorFlow_ImageClassification\TensorFlow_ImageClassification\bin\Release\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\MyWork Desktop\源码下载\c# 机器学习【可用】\TensorFlow_ImageClassification\TensorFlow_ImageClassification\bin\Release\netcoreapp3.0\Newtonsoft.Json.dll
+D:\MyWork Desktop\源码下载\c# 机器学习【可用】\TensorFlow_ImageClassification\TensorFlow_ImageClassification\bin\Release\netcoreapp3.0\System.CodeDom.dll
+D:\MyWork Desktop\源码下载\c# 机器学习【可用】\TensorFlow_ImageClassification\TensorFlow_ImageClassification\bin\Release\netcoreapp3.0\System.Drawing.Common.dll
+D:\MyWork Desktop\源码下载\c# 机器学习【可用】\TensorFlow_ImageClassification\TensorFlow_ImageClassification\bin\Release\netcoreapp3.0\runtimes\linux-x64\native\libFactorizationMachineNative.so
+D:\MyWork Desktop\源码下载\c# 机器学习【可用】\TensorFlow_ImageClassification\TensorFlow_ImageClassification\bin\Release\netcoreapp3.0\runtimes\linux-x64\native\libLdaNative.so
+D:\MyWork Desktop\源码下载\c# 机器学习【可用】\TensorFlow_ImageClassification\TensorFlow_ImageClassification\bin\Release\netcoreapp3.0\runtimes\osx-x64\native\libFactorizationMachineNative.dylib
+D:\MyWork Desktop\源码下载\c# 机器学习【可用】\TensorFlow_ImageClassification\TensorFlow_ImageClassification\bin\Release\netcoreapp3.0\runtimes\osx-x64\native\libLdaNative.dylib
+D:\MyWork Desktop\源码下载\c# 机器学习【可用】\TensorFlow_ImageClassification\TensorFlow_ImageClassification\bin\Release\netcoreapp3.0\runtimes\win-x64\native\FactorizationMachineNative.dll
+D:\MyWork Desktop\源码下载\c# 机器学习【可用】\TensorFlow_ImageClassification\TensorFlow_ImageClassification\bin\Release\netcoreapp3.0\runtimes\win-x64\native\LdaNative.dll
+D:\MyWork Desktop\源码下载\c# 机器学习【可用】\TensorFlow_ImageClassification\TensorFlow_ImageClassification\bin\Release\netcoreapp3.0\runtimes\win-x86\native\FactorizationMachineNative.dll
+D:\MyWork Desktop\源码下载\c# 机器学习【可用】\TensorFlow_ImageClassification\TensorFlow_ImageClassification\bin\Release\netcoreapp3.0\runtimes\win-x86\native\LdaNative.dll
+D:\MyWork Desktop\源码下载\c# 机器学习【可用】\TensorFlow_ImageClassification\TensorFlow_ImageClassification\bin\Release\netcoreapp3.0\runtimes\linux-x64\native\libCpuMathNative.so
+D:\MyWork Desktop\源码下载\c# 机器学习【可用】\TensorFlow_ImageClassification\TensorFlow_ImageClassification\bin\Release\netcoreapp3.0\runtimes\osx-x64\native\libCpuMathNative.dylib
+D:\MyWork Desktop\源码下载\c# 机器学习【可用】\TensorFlow_ImageClassification\TensorFlow_ImageClassification\bin\Release\netcoreapp3.0\runtimes\win-x64\native\CpuMathNative.dll
+D:\MyWork Desktop\源码下载\c# 机器学习【可用】\TensorFlow_ImageClassification\TensorFlow_ImageClassification\bin\Release\netcoreapp3.0\runtimes\win-x86\native\CpuMathNative.dll
+D:\MyWork Desktop\源码下载\c# 机器学习【可用】\TensorFlow_ImageClassification\TensorFlow_ImageClassification\bin\Release\netcoreapp3.0\runtimes\linux-x64\native\libtensorflow.so
+D:\MyWork Desktop\源码下载\c# 机器学习【可用】\TensorFlow_ImageClassification\TensorFlow_ImageClassification\bin\Release\netcoreapp3.0\runtimes\linux-x64\native\libtensorflow_framework.so
+D:\MyWork Desktop\源码下载\c# 机器学习【可用】\TensorFlow_ImageClassification\TensorFlow_ImageClassification\bin\Release\netcoreapp3.0\runtimes\osx-x64\native\libtensorflow.dylib
+D:\MyWork Desktop\源码下载\c# 机器学习【可用】\TensorFlow_ImageClassification\TensorFlow_ImageClassification\bin\Release\netcoreapp3.0\runtimes\osx-x64\native\libtensorflow_framework.dylib
+D:\MyWork Desktop\源码下载\c# 机器学习【可用】\TensorFlow_ImageClassification\TensorFlow_ImageClassification\bin\Release\netcoreapp3.0\runtimes\win-x64\native\tensorflow.dll
+D:\MyWork Desktop\源码下载\c# 机器学习【可用】\TensorFlow_ImageClassification\TensorFlow_ImageClassification\bin\Release\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\Microsoft.Win32.SystemEvents.dll
+D:\MyWork Desktop\源码下载\c# 机器学习【可用】\TensorFlow_ImageClassification\TensorFlow_ImageClassification\bin\Release\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Drawing.Common.dll
+D:\MyWork Desktop\源码下载\c# 机器学习【可用】\TensorFlow_ImageClassification\TensorFlow_ImageClassification\bin\Release\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Drawing.Common.dll
+D:\MyWork Desktop\源码下载\c# 机器学习【可用】\TensorFlow_ImageClassification\TensorFlow_ImageClassification\obj\Release\netcoreapp3.0\TensorFlow_ImageClassification.csprojAssemblyReference.cache
+D:\MyWork Desktop\源码下载\c# 机器学习【可用】\TensorFlow_ImageClassification\TensorFlow_ImageClassification\obj\Release\netcoreapp3.0\TensorFlow_ImageClassification.AssemblyInfoInputs.cache
+D:\MyWork Desktop\源码下载\c# 机器学习【可用】\TensorFlow_ImageClassification\TensorFlow_ImageClassification\obj\Release\netcoreapp3.0\TensorFlow_ImageClassification.AssemblyInfo.cs
+D:\MyWork Desktop\源码下载\c# 机器学习【可用】\TensorFlow_ImageClassification\TensorFlow_ImageClassification\obj\Release\netcoreapp3.0\TensorFlow_ImageClassification.csproj.CoreCompileInputs.cache
+D:\MyWork Desktop\源码下载\c# 机器学习【可用】\TensorFlow_ImageClassification\TensorFlow_ImageClassification\obj\Release\netcoreapp3.0\TensorFlow_ImageClassification.csproj.CopyComplete
+D:\MyWork Desktop\源码下载\c# 机器学习【可用】\TensorFlow_ImageClassification\TensorFlow_ImageClassification\obj\Release\netcoreapp3.0\TensorFlow_ImageClassification.dll
+D:\MyWork Desktop\源码下载\c# 机器学习【可用】\TensorFlow_ImageClassification\TensorFlow_ImageClassification\obj\Release\netcoreapp3.0\TensorFlow_ImageClassification.pdb
+D:\MyWork Desktop\源码下载\c# 机器学习【可用】\TensorFlow_ImageClassification\TensorFlow_ImageClassification\obj\Release\netcoreapp3.0\TensorFlow_ImageClassification.genruntimeconfig.cache

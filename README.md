@@ -1,2 +1,17 @@
 # MPS-Training-Image-Selection-based-on-CNN
 基于CNN选择合适的MPS训练图像
+/*
+ * Traing image Selection with CNN
+ * 
+ * This procedure can achieve TI selected precision test, the output file is output.log. 
+ * By default, there are 4 examples of data. If you need to do custom testing, please modify 
+ * the example section of the code.
+ * 
+ * If you are only doing training image selection, change yourself to the training image and 
+ * test file, and then run the Tensorflow_ImageClassification project.
+ * 
+ * Author : Siyu YU(573315294@qq.com)
+ * Date : 2021.1
+ * 
+ */
+ 

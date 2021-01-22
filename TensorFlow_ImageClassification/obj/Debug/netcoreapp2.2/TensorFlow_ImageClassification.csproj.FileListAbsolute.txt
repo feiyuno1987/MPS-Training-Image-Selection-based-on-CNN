@@ -1,0 +1,11 @@
+C:\Users\思羽哥哥\Desktop\TensorFlow_ImageClassification\TensorFlow_ImageClassification\bin\Debug\netcoreapp2.2\MLModel\readme.txt
+C:\Users\思羽哥哥\Desktop\TensorFlow_ImageClassification\TensorFlow_ImageClassification\bin\Debug\netcoreapp2.2\TensorFlow_ImageClassification.deps.json
+C:\Users\思羽哥哥\Desktop\TensorFlow_ImageClassification\TensorFlow_ImageClassification\bin\Debug\netcoreapp2.2\TensorFlow_ImageClassification.runtimeconfig.json
+C:\Users\思羽哥哥\Desktop\TensorFlow_ImageClassification\TensorFlow_ImageClassification\bin\Debug\netcoreapp2.2\TensorFlow_ImageClassification.runtimeconfig.dev.json
+C:\Users\思羽哥哥\Desktop\TensorFlow_ImageClassification\TensorFlow_ImageClassification\bin\Debug\netcoreapp2.2\TensorFlow_ImageClassification.dll
+C:\Users\思羽哥哥\Desktop\TensorFlow_ImageClassification\TensorFlow_ImageClassification\bin\Debug\netcoreapp2.2\TensorFlow_ImageClassification.pdb
+C:\Users\思羽哥哥\Desktop\TensorFlow_ImageClassification\TensorFlow_ImageClassification\obj\Debug\netcoreapp2.2\TensorFlow_ImageClassification.csprojAssemblyReference.cache
+C:\Users\思羽哥哥\Desktop\TensorFlow_ImageClassification\TensorFlow_ImageClassification\obj\Debug\netcoreapp2.2\TensorFlow_ImageClassification.AssemblyInfoInputs.cache
+C:\Users\思羽哥哥\Desktop\TensorFlow_ImageClassification\TensorFlow_ImageClassification\obj\Debug\netcoreapp2.2\TensorFlow_ImageClassification.AssemblyInfo.cs
+C:\Users\思羽哥哥\Desktop\TensorFlow_ImageClassification\TensorFlow_ImageClassification\obj\Debug\netcoreapp2.2\TensorFlow_ImageClassification.dll
+C:\Users\思羽哥哥\Desktop\TensorFlow_ImageClassification\TensorFlow_ImageClassification\obj\Debug\netcoreapp2.2\TensorFlow_ImageClassification.pdb

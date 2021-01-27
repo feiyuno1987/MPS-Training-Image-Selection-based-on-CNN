@@ -1,5 +1,6 @@
 # MPS-Training-Image-Selection-based-on-CNN
 基于CNN选择合适的MPS训练图像
+[![DOI](https://zenodo.org/badge/331878256.svg)](https://zenodo.org/badge/latestdoi/331878256)
 
 Traing image Selection with CNN
 

@@ -1,7 +1,0 @@
-D:\MyWork Desktop_verysync\我的Doc\[小论文]基于深度学习的训练图像优选方法_en\source codes\TI_Selection_CNN\bin\Release\TI_Selection_CNN.exe.config
-D:\MyWork Desktop_verysync\我的Doc\[小论文]基于深度学习的训练图像优选方法_en\source codes\TI_Selection_CNN\bin\Release\TI_Selection_CNN.exe
-D:\MyWork Desktop_verysync\我的Doc\[小论文]基于深度学习的训练图像优选方法_en\source codes\TI_Selection_CNN\bin\Release\TI_Selection_CNN.pdb
-D:\MyWork Desktop_verysync\我的Doc\[小论文]基于深度学习的训练图像优选方法_en\source codes\TI_Selection_CNN\obj\Release\TI_Selection_CNN.csprojAssemblyReference.cache
-D:\MyWork Desktop_verysync\我的Doc\[小论文]基于深度学习的训练图像优选方法_en\source codes\TI_Selection_CNN\obj\Release\TI_Selection_CNN.csproj.CoreCompileInputs.cache
-D:\MyWork Desktop_verysync\我的Doc\[小论文]基于深度学习的训练图像优选方法_en\source codes\TI_Selection_CNN\obj\Release\TI_Selection_CNN.exe
-D:\MyWork Desktop_verysync\我的Doc\[小论文]基于深度学习的训练图像优选方法_en\source codes\TI_Selection_CNN\obj\Release\TI_Selection_CNN.pdb

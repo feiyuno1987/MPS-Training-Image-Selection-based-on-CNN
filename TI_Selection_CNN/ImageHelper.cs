@@ -8,7 +8,7 @@ using System.Drawing.Drawing2D;
 using System.Drawing.Imaging;
 using System.Runtime.InteropServices;
 using System.IO;
-using System.Windows.Forms;
+//using System.Windows.Forms;
 
 namespace JAM.Utilities
 {
@@ -646,22 +646,22 @@ namespace JAM.Utilities
 
         #region 屏幕截图
 
-        public static Image GetScreenImage()
-        {
-            //屏幕宽
-            int iWidth = Screen.PrimaryScreen.Bounds.Width;
-            //屏幕高
-            int iHeight = Screen.PrimaryScreen.Bounds.Height;
-            //按照屏幕宽高创建位图
-            Image img = new Bitmap(iWidth, iHeight);
-            //从一个继承自Image类的对象中创建Graphics对象
-            Graphics gc = Graphics.FromImage(img);
-            //抓屏并拷贝到myimage里
-            gc.CopyFromScreen(new Point(0, 0),
-                new Point(0, 0), new Size(iWidth, iHeight));
+        //public static Image GetScreenImage()
+        //{
+        //    //屏幕宽
+        //    int iWidth = Screen.PrimaryScreen.Bounds.Width;
+        //    //屏幕高
+        //    int iHeight = Screen.PrimaryScreen.Bounds.Height;
+        //    //按照屏幕宽高创建位图
+        //    Image img = new Bitmap(iWidth, iHeight);
+        //    //从一个继承自Image类的对象中创建Graphics对象
+        //    Graphics gc = Graphics.FromImage(img);
+        //    //抓屏并拷贝到myimage里
+        //    gc.CopyFromScreen(new Point(0, 0),
+        //        new Point(0, 0), new Size(iWidth, iHeight));
 
-            return img;
-        }
+        //    return img;
+        //}
 
         #endregion
     }

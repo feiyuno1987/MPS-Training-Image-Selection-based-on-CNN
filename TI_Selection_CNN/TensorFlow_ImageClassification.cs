@@ -10,6 +10,7 @@ using Microsoft.ML;
 using Microsoft.ML.Data;
 using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 using System.IO;
 using System.Linq;
 using static TI_Selection_CNN.TI_Selection;
@@ -44,7 +45,7 @@ namespace TI_Selection_CNN
             // STEP 1: 准备数据
             var fulldata = mlContext.Data.LoadFromTextFile<ImageNetData>(path: TrainTagsPath, separatorChar: '\t', hasHeader: false);
 
-            var trainTestData = mlContext.Data.TrainTestSplit(fulldata, testFraction: 0.2);
+            var trainTestData = mlContext.Data.TrainTestSplit(fulldata, testFraction: 0.15);
             var trainData = trainTestData.TrainSet;
             var testData = trainTestData.TestSet;
 
@@ -59,8 +60,13 @@ namespace TI_Selection_CNN
                 .Append(mlContext.Transforms.Conversion.MapKeyToValue("PredictedLabelValue", "PredictedLabel"))
                 .AppendCacheCheckpoint(mlContext);
 
+            Stopwatch sw = new Stopwatch();
+            sw.Start();
             // STEP 3：通过训练数据调整模型    
             ITransformer model = pipeline.Fit(trainData);
+            sw.Stop();
+            System.Console.WriteLine($"Training Time:{sw.ElapsedMilliseconds} Milliseconds");
+            System.Console.WriteLine();
 
             // STEP 4：评估模型
             Console.WriteLine("===== Evaluate model =======");

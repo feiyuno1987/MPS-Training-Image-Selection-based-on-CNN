@@ -1,23 +1,16 @@
-﻿using System;
+﻿//2003
+using NPOI.HSSF.UserModel;
+using NPOI.HSSF.Util;
+using NPOI.SS.UserModel;
+//2007
+using NPOI.XSSF.UserModel;
+using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
 using System.Data;
 using System.IO;
 using System.Text.RegularExpressions;
-
-using NPOI.SS.UserModel;
-using NPOI.SS.Util;
-//2003
-using NPOI.HSSF.UserModel;
-using NPOI.HSSF.Util;
-//2007
-using NPOI.XSSF.UserModel;
-using NPOI.XSSF.Util;
-using HorizontalAlignment = NPOI.SS.UserModel.HorizontalAlignment;
 using TI_Selection_CNN;
+using HorizontalAlignment = NPOI.SS.UserModel.HorizontalAlignment;
 
 namespace JAM.Utilities
 {

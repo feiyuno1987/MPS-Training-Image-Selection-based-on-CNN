@@ -6,11 +6,11 @@
  * 
  */
 
+using JAM.Algorithm.Numerics;
 using System;
 using System.Collections.Generic;
-using System.Linq;
 using System.Drawing;
-using JAM.Algorithm.Numerics;
+using System.Linq;
 
 namespace JAM.Algorithm.Visualization
 {

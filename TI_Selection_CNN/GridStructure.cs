@@ -1,5 +1,5 @@
 ﻿/*     
- *     GridStructure
+*     GridStructure
 *
 * Version: 1.0
 * Author:  Siyu Yu(573315294@qq.com)

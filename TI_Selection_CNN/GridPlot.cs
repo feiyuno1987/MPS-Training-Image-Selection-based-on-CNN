@@ -79,7 +79,7 @@ namespace JAM.Algorithm.Geometry
                         double? cell = reverse.GetCell(new SpatialIndex(i, j));
                         if (cell == null)
                         {
-                            brush = new SolidBrush(Color.FromArgb(m_Alpha, 250, 250, 250));
+                            brush = new SolidBrush(Color.FromArgb(m_Alpha, 100, 100, 100));
                         }
                         else
                         {
@@ -129,7 +129,7 @@ namespace JAM.Algorithm.Geometry
                         var cell = reverse.GetCell(new SpatialIndex(i, j));
                         if (cell == null)
                         {
-                            brush = new SolidBrush(Color.FromArgb(m_Alpha, 250, 250, 250));
+                            brush = new SolidBrush(Color.FromArgb(m_Alpha, 100, 100, 100));
                         }
                         else
                         {
